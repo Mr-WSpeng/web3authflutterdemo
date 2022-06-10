@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Flutter in Pods, no dependencies
+Web3Auth in Pods, no dependencies
+web3auth_flutter in Pods, depends on:
+Flutter in Pods (explicit)
+Web3Auth in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+Web3Auth in Pods (explicit)
+web3auth_flutter in Pods (explicit)
